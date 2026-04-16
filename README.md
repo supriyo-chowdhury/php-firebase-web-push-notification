@@ -92,7 +92,7 @@ send_notification.php
 ## 📁 Project Structure
 
 ```
-firebase-web-push-php/
+php-firebase-web-push-notification/
 │
 ├── push.js                     # Handles Firebase initialization & token generation
 ├── firebase-messaging-sw.js    # Service Worker for background notifications
